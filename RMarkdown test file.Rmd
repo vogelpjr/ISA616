@@ -25,6 +25,7 @@ data(mtcars)
 head(mtcars)
 summary(mtcars)
 hist(mtcars$mpg)
+plot(mtcars)
 ```
 
 
